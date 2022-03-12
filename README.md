@@ -6,7 +6,7 @@ Web app that allows to add quotes and adn share comments. Created to practise Re
 - React Router
 - FireBase
 
-# How to run
+# To run locally
 Type in terminal
 ```
 npm install
